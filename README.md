@@ -6,10 +6,10 @@
 
 ![alt text](https://github.com/Ikhwan19/CRUD_ikhwan/blob/master/CRUD2.5.JPG)
 
-![alt text](https://github.com/Ikhwan19/CRUD_ikhwan/blob/master/Crud3.JPG)
-#CREATE
-![alt text](https://github.com/Ikhwan19/CRUD_ikhwan/blob/master/CRUD4.JPG)
-#UPDATE
+![alt text](https://github.com/Ikhwan19/CRUD_ikhwan/blob/master/Crud3.JPG)<br>
+# CREATE
+![alt text](https://github.com/Ikhwan19/CRUD_ikhwan/blob/master/CRUD4.JPG)<br>
+# UPDATE
 ![alt text](https://github.com/Ikhwan19/CRUD_ikhwan/blob/master/CRUD4.5.JPG)
 
 
